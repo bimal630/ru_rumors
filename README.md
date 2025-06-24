@@ -1,7 +1,7 @@
 # 🗣️ Rumor NPC System for VORP (RedM)
 **Created by Doyen**
 
-This script adds immersive, voice-acted NPCs near Valentine who randomly speak rumors to nearby players. A great atmospheric addition to any RedM roleplay server using VORP.
+This script adds immersive  near Valentine who randomly speak rumors to nearby players. A great atmospheric addition to any RedM roleplay server using VORP.
 
 ## 📦 Features
 - Cooldown system to prevent spam.
